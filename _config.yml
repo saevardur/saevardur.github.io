@@ -4,3 +4,5 @@ plugins:
 
 title: Sævarður Einarsson
 description: Sævarður Einarsson
+
+show_downloads: false
